@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:google_clone/colors.dart';
+import 'package:google_clone/color_pr.dart';
 
 import '../../screens/search_screen.dart';
 

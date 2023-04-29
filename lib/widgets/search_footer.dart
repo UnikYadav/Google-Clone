@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_clone/colors.dart';
+import 'package:google_clone/color_pr.dart';
 
 class SearchFooter extends StatelessWidget {
   const SearchFooter({Key? key}) : super(key: key);

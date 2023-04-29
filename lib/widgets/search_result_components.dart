@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
-import '../colors.dart';
+import '../color_pr.dart';
 
 class SearchResultComponents extends StatefulWidget {
   final String link;

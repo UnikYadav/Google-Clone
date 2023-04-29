@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../colors.dart';
+import '../color_pr.dart';
 import '../widgets/mobile/mobile_footer.dart';
 import '../widgets/search.dart';
 

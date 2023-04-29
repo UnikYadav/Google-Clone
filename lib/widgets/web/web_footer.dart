@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_clone/colors.dart';
+import 'package:google_clone/color_pr.dart';
 import 'package:google_clone/widgets/footer_text.dart';
 
 class WebFooter extends StatelessWidget {
